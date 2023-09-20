@@ -1,4 +1,4 @@
-// {Nean Ordinario}: {we live, we love, we lie.}
+// {Nean Ordinario}: {}
 // {Hazel Petate}: {Never regret anything that made you smile.}
 
 import 'package:flutter/material.dart';
